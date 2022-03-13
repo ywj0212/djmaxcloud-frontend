@@ -1,2 +1,3 @@
-# djmax-respect-record-front
-A web page for managing records from DJMAX RESPECT V
+# DJMAX RESPECT V Record Frontend
+## Introduction
+This is a web page for managing records from DJMAX RESPECT V.
