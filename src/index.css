@@ -1,3 +1,27 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: "Lato";
+    font-weight: 400;
+    src: url("./assets/fonts/lato/Lato-Regular.ttf");
+  }
+  @font-face {
+    font-family: "Lato";
+    font-weight: 900;
+    src: url("./assets/fonts/lato/Lato-Black.ttf");
+  }
+
+  @font-face {
+    font-family: "NotoSansKR";
+    font-weight: 400;
+    src: url("./assets/fonts/notosans/NotoSansKR-Regular.otf");
+  }
+  @font-face {
+    font-family: "NotoSansKR";
+    font-weight: 700;
+    src: url("./assets/fonts/notosans/NotoSansKR-Bold.otf");
+  }
+}
